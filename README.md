@@ -44,8 +44,7 @@ Chrome notification: "Orbit updated your job profile 🎯"
 ## Prerequisites
 
 Before using this extension, you need a running Orbit backend:
-- Use the live instance: `https://orbit-backend-production-26a0.up.railway.app`
-- Or self-host: follow setup at [orbit-backend](https://github.com/GreenBolJS/orbit-backend)
+- Self-host: follow setup at [orbit-backend](https://github.com/GreenBolJS/orbit-backend)
 
 ---
 
